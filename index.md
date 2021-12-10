@@ -1,35 +1,46 @@
-<html>
-<head>
-<meta charset="utf-8">
-<title>个人主页</title>
-</head>
-<body>
-    <h1>正在学习:C++/UE4</h1>
-    <p>我的第一个段落。</p>
-  <table border="0">
-  <tr>
-    <td width="75%">
-      <h1>术樱</h1>
-      <p><b>大专学生</p></b>
-      <p><b>邮箱:1754798088@qq.com</p></b>
-      <p><b>地址:地球村中华人民共和国河南省安阳市</p></b>
-    </td>
-    <td width="25%">
-      <img src="https://github.com/Shu-Ying/shuying.github.io/blob/gh-pages/main.jpg">
-    </td>
-  </tr>
-</table>
-</body>
+<!DOCTYPE html>
+<html lang="zh-cmn">
+    <head>
+        <meta charset="UTF-8">
+        <title>术樱</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#157878">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/cayman.css">
+    </head>
+    <body>
+        <section class="page-header">
+            <h1 class="project-name">术樱</h1>
+            <h2 class="project-tagline">通过Github搭建的一个个人博客/h2>
+            <!-- <a href="#" class="btn">按钮</a> -->
+        </section>
+        <tr>
+        <td width="75%">
+        <h1>术樱</h1>
+            <p><b>大专学生</p></b>
+            <p><b>邮箱:1754798088@qq.com</p></b>
+            <p><b>地址:地球村中国河南省安阳市</p></b>
+        </td>
+        <td width="15%">
+            <img src="/main.jpg">
+        </td>
+        </tr> 
+        <h1>
+            <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
+            个人爱好
+        </h1>
+        <p>看看动漫,听听音乐</p>
+        <h1>
+            <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
+            闲暇时间制作的各类游戏mod
+        </h1>
+        <p>无名杀:<a href="https://diuse.coding.net/p/extension/d/noname_extension/git">https://diuse.coding.net/p/extension/d/noname_extension/git</a></p>
+        <blockquote>
+            <p>为了使在线更新流畅,所以使用Coding</p>
+        </blockquote>
+        <p>七日杀:<a href="https://www.7risha.com/5414.html">https://www.7risha.com/5414.html</a></p>
+        <p>我的世界:暂时无分享链接</p>
+        <p>基于<a href="https://github.com/nonebot/nonebot">nonebot2</a>制作QQ机器人</p>
+        
 </html>
-
-
-
-### 学习历程:VB6.0 C XML JavaScript C++ Qt UE4 
-
-### 闲暇时间制作的各类游戏mod
-无名杀:https://diuse.coding.net/p/extension/d/noname_extension/git</br>
-七日杀:https://www.7risha.com/5414.html</br>
-我的世界:暂时无分享链接</br>
-
-<h3>基于<a href="https://github.com/nonebot/nonebot">nonebot2</a>制作QQ机器人</h3>
-
