@@ -54,4 +54,7 @@
 </blockquote>
 <p>七日杀:<a href="https://www.7risha.com/5414.html">https://www.7risha.com/5414.html</a></p>
 <p>我的世界:暂时无分享链接</p>
+<blockquote>
+    <p>2017年分享,现已无存档. Minecraft:Bedrock Edition(手机端)由C++制作,固mod语言为C++</p>
+</blockquote>
 <p>基于<a href="https://github.com/nonebot/nonebot">nonebot2</a>制作QQ机器人</p>
