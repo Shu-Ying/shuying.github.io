@@ -29,7 +29,11 @@
     <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
     学习历程
 </h1>
-    <p>VB6.0 C C++</p>
+    <p>熟悉基础:</p>
+        <li>VB6.0</li>
+        <li>C</li>
+        <li>C++</li>
+        <li>UE4</li>
     <p>了解但不深入:</p>
     <ul class="task-list">
         <li>MySQL</li>
