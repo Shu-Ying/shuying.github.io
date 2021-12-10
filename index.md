@@ -1,4 +1,28 @@
-### 正在学习:C++/UE4
+<html>
+<head>
+<meta charset="utf-8">
+<title>个人主页</title>
+</head>
+<body>
+    <h1>正在学习:C++/UE4</h1>
+    <p>我的第一个段落。</p>
+  <table border="0">
+  <tr>
+    <td width="75%">
+      <h1>术樱</h1>
+      <p><b>大专学生</p></b>
+      <p><b>邮箱:1754798088@qq.com</p></b>
+      <p><b>地址:地球村中华人民共和国河南省安阳市</p></b>
+    </td>
+    <td width="25%">
+      <img src="https://github.com/Shu-Ying/shuying.github.io/blob/gh-pages/main.jpg">
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+
 
 ### 学习历程:VB6.0 C XML JavaScript C++ Qt UE4 
 
@@ -9,16 +33,3 @@
 
 <h3>基于<a href="https://github.com/nonebot/nonebot">nonebot2</a>制作QQ机器人</h3>
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>术樱</h1>
-      <p><b>大专学生</p></b>
-      <p><b>邮箱:1754798088@qq.com</p></b>
-      <p><b>地址:地球村中华人民共和国河南省安阳市</p></b>
-    </td>
-    <td width="25%">
-      <img src="/main.jpg">
-    </td>
-  </tr>
-</table>
