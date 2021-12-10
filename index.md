@@ -29,19 +29,21 @@
     <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
     学习历程
 </h1>
-    <ul class="task-list">
-    <p>熟悉基础:</p>
-        <li>VB6.0</li>
-        <li>C</li>
-        <li>C++</li>
-        <li>UE4</li>
-    <p></p>
-    <p>了解但不深入:</p>
-        <li>MySQL</li>
-        <li>JavaScript</li>
-        <li>QT</li>
-        <li>UE4</li>
-    </ul>
+
+<ul class="task-list">
+<p>熟悉基础:</p>
+    <li>VB6.0</li>
+    <li>C</li>
+    <li>C++</li>
+    <li>UE4</li>
+<p></p>
+<p>了解但不深入:</p>
+    <li>MySQL</li>
+    <li>JavaScript</li>
+    <li>QT</li>
+    <li>UE4</li>
+</ul>
+    
 <h1>
     <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
     闲暇时间制作的各类游戏mod
