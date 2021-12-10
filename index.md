@@ -1,4 +1,3 @@
-
 <section class="page-header">
     <h1 class="project-name">术樱</h1>
     <h2 class="project-tagline">通过Github搭建的一个个人博客</h2>
@@ -10,9 +9,9 @@
     <tr>
         <td width="75%">
         <h1>术樱</h1>
-            <p><b>大专学生</p></b>
-            <p><b>邮箱:1754798088@qq.com</p></b>
-            <p><b>地址:地球村中国河南省安阳市</p></b>
+            <p><b>大专学生</b></p></b>
+            <p><b>邮箱:1754798088@qq.com</b></p>
+            <p><b>地址:地球村中国河南省安阳市</b></p>
         </td>
         <td width="25%">
             <img src="http://q1.qlogo.cn/g?b=qq&nk=1754798088&s=640">
