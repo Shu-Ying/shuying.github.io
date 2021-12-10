@@ -2,6 +2,7 @@
 <section class="page-header">
     <h1 class="project-name">术樱</h1>
     <h2 class="project-tagline">通过Github搭建的一个个人博客</h2>
+    <h3>我从小就对新科技有着无尽的好奇心,因此一直在通过互联网自学编程.</h3>
     <!-- <a href="#" class="btn">按钮</a> -->
 </section>
 
@@ -35,6 +36,7 @@
         <li>C</li>
         <li>C++</li>
         <li>UE4</li>
+    <p></p>
     <p>了解但不深入:</p>
         <li>MySQL</li>
         <li>JavaScript</li>
