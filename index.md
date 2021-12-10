@@ -1,12 +1,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Beta</h1>
-      <p><b></p></b>
-      <p><b></p></b>
-      <p><b></p></b>
-      <p><b></p></b>
-      <p><b></p></b>
+      <h1>术樱</h1>
+      <p><b>大专学生</p></b>
+      <p><b>邮箱:1754798088@qq.com</p></b>
+      <p><b>地址:地球村中华人民共和国河南省安阳市</p></b>
     </td>
     <td width="25%">
       <img src="/main.jpg">
