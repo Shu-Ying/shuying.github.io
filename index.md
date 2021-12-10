@@ -17,4 +17,6 @@
 ### 学习历程:VB6.0 C XML JavaScript C++ Qt UE4 ###
 
 ### 个人爱好:闲暇时间制作mod ###
-https://diuse.coding.net/p/extension/d/noname_extension/git
+无名杀mod:https://diuse.coding.net/p/extension/d/noname_extension/git
+七日杀mod:https://www.7risha.com/5414.html
+我的世界mod:暂时无分享链接
