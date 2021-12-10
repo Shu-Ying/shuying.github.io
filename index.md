@@ -24,6 +24,19 @@
     个人爱好
 </h1>
 <p>看看动漫,听听音乐</p>
+
+<h1>
+    <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
+    学习历程
+</h1>
+    <p>VB6.0 C C++</p>
+    <p>了解但不深入:</p>
+    <ul class="task-list">
+        <li>MySQL</li>
+        <li>JavaScript</li>
+        <li>QT</li>
+        <li>UE4</li>
+    </ul>
 <h1>
     <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
     闲暇时间制作的各类游戏mod
