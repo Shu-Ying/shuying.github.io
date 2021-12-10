@@ -4,7 +4,9 @@
     <h2 class="project-tagline">通过Github搭建的一个个人博客</h2>
     <!-- <a href="#" class="btn">按钮</a> -->
 </section>
-<tr>
+
+<table border="0">
+  <tr>
     <td width="75%">
     <h1>术樱</h1>
         <p><b>大专学生</p></b>
@@ -14,7 +16,9 @@
     <td width="25%">
         <img src="https://github.com/Shu-Ying/shuying.github.io/blob/gh-pages/main.jpg">
     </td>
-</tr> 
+  </tr>
+</table>
+
 <h1>
     <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
     个人爱好
