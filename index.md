@@ -16,7 +16,9 @@
 
 ### 学习历程:VB6.0 C XML JavaScript C++ Qt UE4 ###
 
-### 个人爱好:闲暇时间制作mod ###
-无名杀mod:https://diuse.coding.net/p/extension/d/noname_extension/git</br>
-七日杀mod:https://www.7risha.com/5414.html</br>
-我的世界mod:暂时无分享链接</br>
+### 闲暇时间制作的各类游戏mod ###
+无名杀:https://diuse.coding.net/p/extension/d/noname_extension/git</br>
+七日杀:https://www.7risha.com/5414.html</br>
+我的世界:暂时无分享链接</br>
+
+<a>基于nonebot2制作QQ机器人</a>
