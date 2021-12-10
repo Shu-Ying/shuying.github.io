@@ -12,7 +12,7 @@
         <p><b>地址:地球村中国河南省安阳市</p></b>
     </td>
     <td width="25%">
-        <img src="/main.jpg">
+        <img src="https://github.com/Shu-Ying/shuying.github.io/blob/gh-pages/main.jpg">
     </td>
 </tr> 
 <h1>
