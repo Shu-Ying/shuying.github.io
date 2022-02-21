@@ -52,6 +52,7 @@
 <blockquote>
     <p>为了使在线更新流畅,所以使用Coding</p>
 </blockquote>
+<p>ARK自动更新汉化补丁:<a href="https://github.com/Shu-Ying/ARK-ZH-CN">https://github.com/Shu-Ying/ARK-ZH-CN</a></p>
 <p>七日杀:<a href="https://www.7risha.com/5414.html">https://www.7risha.com/5414.html</a></p>
 <p>我的世界:暂时无分享链接</p>
 <blockquote>
